@@ -6,7 +6,7 @@ Olá, se você estiver vendo isso essa foi a minha primeira programação public
 
 ### Sobre Mim
 
-- *Nome:* Felipe.
+- *Nome:* Felipe Marçal.
 - *Idade:* 17 anos.
 - *Hobbies:* Leitura, Basquete e programação.
 
